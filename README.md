@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 <!--
 **mm4rk3t/mm4rk3t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
